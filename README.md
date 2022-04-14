@@ -1,5 +1,8 @@
 # Boas vindas ao repositório do projeto de Receitas
 
+Você pode ter uma visualização do projeto no link abaixo:
+https://recipes-apps-6kz7bunnq-leonardo-terra.vercel.app/
+
 ## O que foi desenvolvido:
 
 O Recipes-App é um aplicativo de receitas, utilizando tecnologias do ecossistema React: Hooks e Redux
